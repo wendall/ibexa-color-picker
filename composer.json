@@ -1,5 +1,5 @@
 {
-    "name": "codein/ibexa-color-picker",
+    "name": "wendall/ibexa-color-picker",
     "description": "Ibexa Platform color picker field type",
     "type": "ezplatform-bundle",
     "license": "MIT",
@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": ">=7.3",
         "ext-json": "*",
         "ezsystems/ezplatform-kernel": "~1.0"
     },
