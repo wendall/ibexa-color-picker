@@ -1,6 +1,6 @@
 <?php
 
-namespace Codein\ColorConverter\Color;
+namespace Wendall\ColorConverter\Color;
 
 class RGB extends RGBa
 {

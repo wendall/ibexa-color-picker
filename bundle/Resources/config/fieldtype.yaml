@@ -2,7 +2,7 @@ parameters:
   codein.fieldtype.color.identifier: 'codeincolor'
 
 services:
-  Codein\eZColorPicker\FieldType\ColorPicker\Type:
+  Wendall\eZColorPicker\FieldType\ColorPicker\Type:
     autoconfigure: false
     autowire: true
     public: true

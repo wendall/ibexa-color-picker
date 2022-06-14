@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Codein\eZColorPicker\Form\Type;
+namespace Wendall\eZColorPicker\Form\Type;
 
-use Codein\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
+use Wendall\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\CallbackTransformer;
 use Symfony\Component\Form\Extension\Core\Type\TextType;

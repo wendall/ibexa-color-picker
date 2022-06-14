@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codein\Tests\ColorConverter;
+namespace Wendall\Tests\ColorConverter;
 
 
 interface ColorPickerDataFixtures

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codein\eZColorPicker\FieldType\ColorPicker;
+namespace Wendall\eZColorPicker\FieldType\ColorPicker;
 
 use eZ\Publish\SPI\FieldType\Value as ValueInterface;
 

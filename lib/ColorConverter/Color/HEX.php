@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codein\ColorConverter\Color;
+namespace Wendall\ColorConverter\Color;
 
 
 class HEX extends HEXa

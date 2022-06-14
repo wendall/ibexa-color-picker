@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Codein\eZColorPicker\DependencyInjection;
+namespace Wendall\eZColorPicker\DependencyInjection;
 
 use Symfony\Component\Config\Resource\FileResource;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
