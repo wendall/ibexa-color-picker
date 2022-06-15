@@ -19,7 +19,7 @@ Codein\eZColorPicker\eZColorPickerBundle::class => ['all' => true],
 Compile the assets for the admin UI
 
 ```
-./bin/console ezplatform:encore:compile
+./bin/console ibexa:encore:compile
 ```
 
 ## Usage

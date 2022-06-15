@@ -1,7 +1,7 @@
 {
     "name": "codein/ibexa-color-picker",
     "description": "Ibexa Platform color picker field type",
-    "type": "ezplatform-bundle",
+    "type": "ibexa-bundle",
     "license": "MIT",
     "authors": [
         {
