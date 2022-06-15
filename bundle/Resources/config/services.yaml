@@ -2,3 +2,4 @@ services:
   Codein\ColorConverter\ColorConverter:
     autowire: true
     public: true
+
