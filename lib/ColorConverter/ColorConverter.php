@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Wendall\ColorConverter;
+namespace Codein\ColorConverter;
 
 
-use Wendall\ColorConverter\Color\HEX;
-use Wendall\ColorConverter\Color\HEXa;
-use Wendall\ColorConverter\Color\HSVa;
-use Wendall\ColorConverter\Color\RGB;
-use Wendall\ColorConverter\Color\RGBa;
+use Codein\ColorConverter\Color\HEX;
+use Codein\ColorConverter\Color\HEXa;
+use Codein\ColorConverter\Color\HSVa;
+use Codein\ColorConverter\Color\RGB;
+use Codein\ColorConverter\Color\RGBa;
 
 class ColorConverter
 {

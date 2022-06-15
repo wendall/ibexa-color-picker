@@ -1,10 +1,10 @@
 <?php
 
 
-use Wendall\ColorConverter\ColorConverter;
-use Wendall\eZColorPicker\FieldType\ColorPicker\Type as ColorPickerType;
-use Wendall\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
-use Wendall\Tests\ColorConverter\ColorPickerDataFixtures;
+use Codein\ColorConverter\ColorConverter;
+use Codein\eZColorPicker\FieldType\ColorPicker\Type as ColorPickerType;
+use Codein\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
+use Codein\Tests\ColorConverter\ColorPickerDataFixtures;
 use PHPUnit\Framework\TestCase;
 use eZ\Publish\SPI\FieldType\ValueSerializerInterface;
 use Symfony\Component\Validator\Validator\ValidatorInterface;

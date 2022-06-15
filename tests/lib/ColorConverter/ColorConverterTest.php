@@ -1,9 +1,9 @@
 <?php
 
-namespace Wendall\Tests\ColorConverter;
+namespace Codein\Tests\ColorConverter;
 
-use Wendall\ColorConverter\Color\HSVa;
-use Wendall\ColorConverter\ColorConverter;
+use Codein\ColorConverter\Color\HSVa;
+use Codein\ColorConverter\ColorConverter;
 use PHPUnit\Framework\TestCase;
 
 class ColorConverterTest extends TestCase

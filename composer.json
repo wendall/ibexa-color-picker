@@ -1,13 +1,25 @@
 {
-    "name": "wendall/ibexa-color-picker",
+    "name": "codein/ibexa-color-picker",
     "description": "Ibexa Platform color picker field type",
     "type": "ezplatform-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wendall",
-            "email": "Wendall.net@gmail.com",
-            "homepage": "https://www.wendall.net"
+            "name": "Codein-Labs",
+            "email": "labs@codein.fr",
+            "homepage": "https://www.codein.fr"
+        },
+        {
+            "name": "Meryll Essig",
+            "email": "meryll.essig@codein.fr"
+        },
+        {
+            "name": "Marc Teinturier",
+            "email": "marc.teinturier@codein.fr"
+        },
+        {
+            "name": "Axel Veber",
+            "email": "axel.veber@codein.fr"
         }
     ],
     "require": {
@@ -17,10 +29,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Wendall\\eZColorPicker\\": "bundle",
-            "Wendall\\ColorConverter\\": "lib/ColorConverter",
-            "Wendall\\Tests\\eZColorPicker\\": "tests/bundle",
-            "Wendall\\Tests\\ColorConverter\\": "tests/lib/ColorConverter"
+            "Codein\\eZColorPicker\\": "bundle",
+            "Codein\\ColorConverter\\": "lib/ColorConverter",
+            "Codein\\Tests\\eZColorPicker\\": "tests/bundle",
+            "Codein\\Tests\\ColorConverter\\": "tests/lib/ColorConverter"
 
         }
     },

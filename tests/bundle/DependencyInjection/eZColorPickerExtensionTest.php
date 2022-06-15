@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Wendall\Tests\eZColorPicker\DependencyInjection;
+namespace Codein\Tests\eZColorPicker\DependencyInjection;
 
-use Wendall\eZColorPicker\DependencyInjection\eZColorPickerExtension;
+use Codein\eZColorPicker\DependencyInjection\eZColorPickerExtension;
 use Matthias\SymfonyDependencyInjectionTest\PhpUnit\AbstractExtensionTestCase;
 
 

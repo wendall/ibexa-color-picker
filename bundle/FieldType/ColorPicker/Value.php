@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wendall\eZColorPicker\FieldType\ColorPicker;
+namespace Codein\eZColorPicker\FieldType\ColorPicker;
 
 use Ibexa\Contracts\Core\FieldType\Value as ValueInterface;
 

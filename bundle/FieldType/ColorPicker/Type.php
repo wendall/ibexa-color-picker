@@ -1,20 +1,18 @@
 <?php
 
 
-namespace Wendall\eZColorPicker\FieldType\ColorPicker;
+namespace Codein\eZColorPicker\FieldType\ColorPicker;
 
-use Wendall\ColorConverter\ColorConverter;
-use Wendall\eZColorPicker\Form\Type\ColorPickerSettingsType;
-use Wendall\eZColorPicker\Form\Type\ColorPickerType;
+use Codein\ColorConverter\ColorConverter;
+use Codein\eZColorPicker\Form\Type\ColorPickerSettingsType;
+use Codein\eZColorPicker\Form\Type\ColorPickerType;
 use Ibexa\Contracts\Core\FieldType\Generic\Type as GenericType;
 use Ibexa\AdminUi\FieldType\FieldDefinitionFormMapperInterface;
 use Ibexa\AdminUi\Form\Data\FieldDefinitionData;
 use Ibexa\Contracts\ContentForms\Data\Content\FieldData;
 use Ibexa\Contracts\ContentForms\FieldType\FieldValueFormMapperInterface;
 use Symfony\Component\Form\FormInterface;
-use Wendall\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
-
-
+use Codein\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
 
 final class Type extends GenericType implements FieldValueFormMapperInterface, FieldDefinitionFormMapperInterface
 {

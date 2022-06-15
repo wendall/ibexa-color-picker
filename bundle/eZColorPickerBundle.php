@@ -1,6 +1,6 @@
 <?php
 
-namespace Wendall\eZColorPicker;
+namespace Codein\eZColorPicker;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

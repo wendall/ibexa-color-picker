@@ -1,9 +1,9 @@
 <?php
 
-use Wendall\Tests\ColorConverter\ColorPickerDataFixtures;
+use Codein\Tests\ColorConverter\ColorPickerDataFixtures;
 use PHPUnit\Framework\TestCase;
-use Wendall\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
-use Wendall\Tests\ColorConverter\ColorConverterTest;
+use Codein\eZColorPicker\FieldType\ColorPicker\Value as ColorPickerValue;
+use Codein\Tests\ColorConverter\ColorConverterTest;
 
 class ValueTest extends TestCase
 {

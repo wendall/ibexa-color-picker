@@ -1,4 +1,4 @@
 services:
-  Wendall\ColorConverter\ColorConverter:
+  Codein\ColorConverter\ColorConverter:
     autowire: true
     public: true

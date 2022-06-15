@@ -13,7 +13,7 @@ composer require codein/ibexa-color-picker
 Activate the bundle in bundles.php
 
 ```
-Wendall\eZColorPicker\eZColorPickerBundle::class => ['all' => true],
+Codein\eZColorPicker\eZColorPickerBundle::class => ['all' => true],
 ```
 
 Compile the assets for the admin UI
@@ -42,7 +42,7 @@ The default color format rendered in Twig is RGBa. You can pass extra options to
 
 ### Migration
 
-The method \Wendall\eZColorPicker\FieldType\ColorPicker\Type::acceptValue will accept a single string and convert it into 
+The method \Codein\eZColorPicker\FieldType\ColorPicker\Type::acceptValue will accept a single string and convert it into 
 a color. Following formats are converted into a valid value object : 
 
 ```
