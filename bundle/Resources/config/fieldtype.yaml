@@ -17,3 +17,4 @@ services:
     class: Ibexa\Core\FieldType\Unindexed
     tags:
       - { name: ibexa.field_type.indexable, alias: "%codein.fieldtype.color.identifier%" }
+
